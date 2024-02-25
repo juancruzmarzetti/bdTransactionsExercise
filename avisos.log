@@ -1,0 +1,74 @@
+[2024-02-24 23:25:26] [INFO ] [Main:73] ¡Se ha llamado a la base de datos con éxito!
+[2024-02-24 23:27:03] [INFO ] [Main:74] ¡Se ha llamado a la base de datos con éxito!
+[2024-02-24 23:27:55] [ERROR] [Main:86] Error en la comunicación con la base de datos: 
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:68)
+[2024-02-24 23:29:41] [INFO ] [Main:73] ¡Se ha llamado a la base de datos con éxito!
+[2024-02-24 23:38:07] [ERROR] [Main:95] Error en la comunicación con la base de datos: 
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3536)
+	at org.h2.jdbc.JdbcResultSet.next(JdbcResultSet.java:124)
+	at Main.main(Main.java:73)
+[2024-02-24 23:40:30] [ERROR] [Main:95] Error en la comunicación con la base de datos: 
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3536)
+	at org.h2.jdbc.JdbcResultSet.next(JdbcResultSet.java:124)
+	at Main.main(Main.java:73)
+[2024-02-24 23:40:42] [ERROR] [Main:86] Error en la comunicación con la base de datos: 
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3536)
+	at org.h2.jdbc.JdbcResultSet.next(JdbcResultSet.java:124)
+	at Main.main(Main.java:73)
+[2024-02-24 23:43:07] [ERROR] [Main:95] Error en la comunicación con la base de datos: 
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3536)
+	at org.h2.jdbc.JdbcResultSet.next(JdbcResultSet.java:124)
+	at Main.main(Main.java:73)
+[2024-02-24 23:43:56] [ERROR] [Main:95] Error en la comunicación con la base de datos: 
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3536)
+	at org.h2.jdbc.JdbcResultSet.next(JdbcResultSet.java:124)
+	at Main.main(Main.java:73)
+[2024-02-24 23:44:51] [ERROR] [Main:95] Error en la comunicación con la base de datos: 
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3536)
+	at org.h2.jdbc.JdbcResultSet.next(JdbcResultSet.java:124)
+	at Main.main(Main.java:73)
+[2024-02-24 23:47:39] [INFO ] [Main:77] ¡Se ha llamado a la base de datos con éxito!
+[2024-02-24 23:51:01] [INFO ] [Main:74] ¡Se ha llamado a la base de datos con éxito!
